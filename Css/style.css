@@ -1,0 +1,38 @@
+
+.Developer {
+    font-family: Copperplate, Copperplate Gothic Light, fantasy;
+    font-size: 60px;
+}
+.navbar-brand {
+    color: black;
+}
+.navbar-brand:hover {
+    color: rgb(248, 94, 5);
+}
+
+div .Keshav {
+    font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+.paragraph {
+    font-size: 45px;
+}
+
+.Experience {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 60px;
+    margin: 40px;
+}
+.Certifications {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 60px;
+     margin: 40px;
+}
+
+.Educations{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 60px;
+    margin: 40px;
+}
